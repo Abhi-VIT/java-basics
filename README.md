@@ -23,3 +23,5 @@
 - App_if_elseif.java
 - App_nested_if.java
 ##### -----> **Day 5**
+- App_ForLoop.java
+- App_WhileLoop.java

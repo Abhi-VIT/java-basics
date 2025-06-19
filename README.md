@@ -25,3 +25,4 @@
 ##### -----> **Day 5**
 - App_ForLoop.java
 - App_WhileLoop.java
+##### -----> **Day 6**

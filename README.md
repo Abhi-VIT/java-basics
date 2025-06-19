@@ -26,3 +26,8 @@
 - App_ForLoop.java
 - App_WhileLoop.java
 ##### -----> **Day 6**
+- Learn about array in java
+- App_searcharray.java
+- App_comparearrays.java
+- App_arraysfill.java
+- App_arrays1d.java

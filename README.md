@@ -39,3 +39,4 @@
 - App_mutable_strings.java
 - App_Exploring_strings.java
 - App_palindrome.java
+- App_compare_strings.java

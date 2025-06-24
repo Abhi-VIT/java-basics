@@ -33,3 +33,5 @@
 - App_arrays1d.java
 ##### -----> **Day 7**
 - App_Arrays2d.java
+##### -----> **Day 8**
+- App_Strings.java

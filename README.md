@@ -38,4 +38,4 @@
 - App_String2.java
 - App_mutable_strings.java
 - App_Exploring_strings.java
-- App_Palindrome.java
+- App_palindrome.java

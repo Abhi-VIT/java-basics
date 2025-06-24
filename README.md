@@ -41,3 +41,4 @@
 - App_palindrome.java
 - App_compare_strings.java
 - App_manipulating_strings.java
+- App_compare_strings2.java

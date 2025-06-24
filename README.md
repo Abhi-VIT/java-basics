@@ -37,3 +37,4 @@
 - App_Strings.java
 - App_String2.java
 - App_mutable_strings.java
+- App_Exploring_strings.java

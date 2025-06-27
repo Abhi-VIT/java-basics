@@ -14,7 +14,7 @@ class OuterClass {
     }
 }
 
-public class Main {
+public class App_inner_class2 {
     public static void main(String[] args) {
         OuterClass out = new OuterClass();
         out.outerMethod();

@@ -47,4 +47,5 @@
 - App_inner_class.java
 - App_inner_class1.java
 - App_objectclass1.java
+- App_objectclass2.java
 

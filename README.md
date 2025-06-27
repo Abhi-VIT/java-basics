@@ -42,3 +42,5 @@
 - App_compare_strings.java
 - App_manipulating_strings.java
 - App_compare_strings2.java
+##### -----> **Day 9**
+- App_class.java

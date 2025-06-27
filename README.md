@@ -48,4 +48,4 @@
 - App_inner_class1.java
 - App_objectclass1.java
 - App_objectclass2.java
-
+- App_objectclass3.java

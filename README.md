@@ -49,3 +49,7 @@
 - App_objectclass1.java
 - App_objectclass2.java
 - App_objectclass3.java
+##### -----> **Day 10**
+- App_inheritance.java
+- App_single_inhertance.java
+- App_hierarchical_inheritance.java

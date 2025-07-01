@@ -54,3 +54,4 @@
 - App_single_inhertance.java
 - App_hierarchical_inheritance.java
 - App_multilevel_inheritance.java
+- App_multiple_inheritance.java

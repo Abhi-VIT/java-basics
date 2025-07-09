@@ -67,3 +67,4 @@
 - App_Hashset.java
 - App_Treeset.java
 - App_LinkedHashmap.java
+- App_hashmap.java
